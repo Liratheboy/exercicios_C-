@@ -1,14 +1,10 @@
-﻿public class FuncionarioRegular : Funcionario, IAumentarSalario
+﻿public class FuncionarioRegular : Funcionario
 {
 
-    public FuncionarioRegular(string nome, int idade, double salarioBase) :base(nome, idade, salarioBase){}
+    public FuncionarioRegular(string nome, int idade, double salarioBase)
+        :base(nome, idade, salarioBase){}
 
-    public double AumentarSalario(double porcentagem)
-    {
-        throw new NotImplementedException();
-    }
-
-    public override double CalcularSalario()
+    public override double CalcularSalario(Funcionario funcionario)
     {
         throw new NotImplementedException();
     }

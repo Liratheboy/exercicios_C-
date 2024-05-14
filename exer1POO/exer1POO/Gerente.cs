@@ -1,17 +1,25 @@
-﻿public class Gerente : Funcionario, IAumentarSalario
+﻿public class Gerente : Funcionario
 {
+    double bonificacao;
+    double salarioLiquido;
 
-    public Gerente(string nome, int idade, double salarioBase) : base(nome, idade, salarioBase) { }
+    public Gerente(string nome, int idade, double salarioBase, double bonificacao)
+        : base(nome, idade, salarioBase)
+    { 
+        this.bonificacao = bonificacao; 
+    }
 
-    /*
     public double AumentarSalario(double porcentagem)
     {
-        double aumento = salario * 0.80;
-        return salario + aumento;
+        porcentagem = porcentagem / 100;
+        double aumento = salarioBase * porcentagem;
+        salarioLiquido += aumento;
+        return salarioLiquido;
     }
-    */
-    public override double CalcularSalario()
+
+    public override double CalcularSalario(Funcionario funcionario)
     {
-        throw new NotImplementedException();
+        salarioLiquido = salarioBase + bonificacao;
+        return salarioLiquido;
     }
 }

@@ -19,3 +19,11 @@ C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\exe
 C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\exer1POO.dll
 C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\refint\exer1POO.dll
 C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\exer1POO.pdb
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\exer1POO.sourcelink.json
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\bin\Debug\net8.0\exer1POO.exe
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\bin\Debug\net8.0\exer1POO.deps.json
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\bin\Debug\net8.0\exer1POO.runtimeconfig.json
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\bin\Debug\net8.0\exer1POO.dll
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\bin\Debug\net8.0\exer1POO.pdb
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\exer1POO.genruntimeconfig.cache
+C:\Users\joaop\source\repos\ExerciciosPOO\exer1POO\exer1POO\obj\Debug\net8.0\ref\exer1POO.dll

@@ -11,5 +11,5 @@
         this.salarioBase = salarioBase;
     }
 
-    public abstract double CalcularSalario();
+    public abstract double CalcularSalario(Funcionario funcionario);
 }
